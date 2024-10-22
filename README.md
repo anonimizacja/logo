@@ -1,2 +1,1 @@
-# logo
-logo.medianon.com
+# [logo](https://logo.anonimizacja.pl)
